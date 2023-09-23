@@ -25,8 +25,7 @@ Admin Dashboard: Admins can manage products, inventory, orders, and user account
 
 
 ## Demo
-
-https://hungry-slacks-duck.cyclic.cloud/
+https://smiling-raincoat-crow.cyclic.app/
 
 ### Frontend Routes
 Frontend Routes
